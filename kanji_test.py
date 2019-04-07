@@ -253,6 +253,8 @@ class App(tk.Tk):
                                                   title="Select Dictionary" )
 
         self.dict = []
+        if not self.file: return
+
         with open(self.file, "r", encoding="utf-8") as f:
             for line in f:
                 self.dict.append(line.rstrip().split('\t'))
