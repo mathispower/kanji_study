@@ -7,7 +7,7 @@ version = "1.0"
 ###                                                                         ###
 ###############################################################################
 import argparse, datetime, json, os ,re, signal, sys, threading,time
-import logging, logging.handlers, subprocess as sp
+import logging, logging.handlers, random, subprocess as sp
 import cv2, numpy as np
 from collections import deque
 
@@ -261,6 +261,8 @@ class App(tk.Tk):
 
         self.cur_i = 0
         self.total = len(self.dict)
+
+        random.shuffle(self.dict)
 
         self.update_labels()
 
