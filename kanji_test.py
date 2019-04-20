@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 # coding: utf-8
 version = "1.0"
+""" TODO:
+        - Add capability for reverse (show kanji and answer is meaning)
+"""
 ###############################################################################
 ###                                                                         ###
 ###                               Dependencies                              ###
@@ -8,13 +11,9 @@ version = "1.0"
 ###############################################################################
 import argparse, datetime, json, os ,re, signal, sys, threading,time
 import logging, logging.handlers, random, subprocess as sp
-import cv2, numpy as np
 from collections import deque
 
 # User interface imports
-from PIL import Image
-from PIL import ImageTk
-
 import tkinter as tk
 from tkinter import filedialog as tkFileDialog
 from tkinter import messagebox as tkMessageBox
