@@ -27,9 +27,6 @@ DIR_DATA = os.path.join(DIR_THIS, "dicts")
 
 WIN = "win" in sys.platform
 
-if WIN:
-    import winreg
-
 LOG_FILE = os.path.join(DIR_THIS,"%s.log"%script_name)
 logger = logging.getLogger(script_name)
 logger.setLevel(logging.DEBUG)
@@ -54,8 +51,7 @@ verbose  = False
 ###                        Global Lists/Dictionaries                        ###
 ###                                                                         ###
 ###############################################################################
-colors = { # Matterport color scheme
-           "Dark Blue":"#002F40",
+colors = { "Dark Blue":"#002F40",
            "Dark Yellow":"#FAAC17",
            "Light Gray":"#D1D3D4",
            "Medium Gray":"#989693",
