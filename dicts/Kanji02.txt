@@ -1,48 +1,48 @@
-部屋	へや
-書く	かく
-帰る	かえ（る）
-空いてます	あいてます
-次	つぎ
-明日	あした
-払う	はらう
-町	まち
-一番	いちばん
-高い	たかい
-決める	きめる
-友達	ともだち
-乗る	のる
-学校	がっこう
-祖父	そふ
-娘	むすめ
-今	いま
-足	あし
-仕事	しごと
-笑う	わらう
-色	いろ
-楽しい	たのしい
-短い	みじかい
-全部	ぜんぶ
-勉強	べんきょ
-息子	むすこ
-雑誌	ざっし
-手紙	てがみ
-戻ります	もどります
-大事件	だいじけん
-起こりました	おこりました
-背	せ
-重い	おもい
-漢字	かんじ
-一緒	いっしょ
-宿題	しゅくだい
-朝	あさ
-軽い	かるい
-赤ん坊	あかんぼう
-点	てん
-兄	あに
-水泳	すいえい
-得意	とくい
-意外	いがい
-朝ご飯	あさごはん
-作っています	つくっています
-中国	ちゅうごく
-自転車	じてんしゃ
+部屋	へや	room
+書く	かく	to write
+帰る	かえ（る）	to go back
+空いてます	あいてます	are you free
+次	つぎ	next
+明日	あした	tomorrow
+払う	はらう	to pay
+町	まち	town
+一番	いちばん	first
+高い	たかい	high
+決める	きめる	to decide
+友達	ともだち	friend
+乗る	のる	to get on
+学校	がっこう	school
+祖父	そふ	grandfather
+娘	むすめ	daughter
+今	いま	now
+足	あし	leg
+仕事	しごと	work
+笑う	わらう	to laugh
+色	いろ	color
+楽しい	たのしい	fun
+短い	みじかい	short
+全部	ぜんぶ	all
+勉強	べんきょ	study
+息子	むすこ	son
+雑誌	ざっし	magazine
+手紙	てがみ	letter
+戻ります	もどります	to return
+大事件	だいじけん	big incident
+起こりました	おこりました	happened
+背	せ	height
+重い	おもい	heavy
+漢字	かんじ	kanji
+一緒	いっしょ	together
+宿題	しゅくだい	homework
+朝	あさ	morning
+軽い	かるい	lightweight
+赤ん坊	あかんぼう	baby
+点	てん	point
+兄	あに	older brother
+水泳	すいえい	swimming
+得意	とくい	good at
+意外	いがい	surprising
+朝ご飯	あさごはん	breakfast
+作っています	つくっています	making
+中国	ちゅうごく	China
+自転車	じてんしゃ	bicycle
