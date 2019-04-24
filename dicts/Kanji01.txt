@@ -1,15 +1,10 @@
-置く	おく	to put
-客様	きゃくさま	customer
-言葉	ことば	word
-日程	にってい	schedule
-勝つ	かつ	to win
-数	かず	number
-疲れる	つかれる	to get tired
-平仮名	ひらがな	hiragana
-建てる	たてる	to build
-会社	かいしゃ	Company
-忙しい	いそがしい	busy
-続く	つづく	to continue
-教える	おしえる	to teach
-約束	やくそく	Promise
-足りない	たりない	not enough
+広い	ひろい	wide
+売る	うる	sell
+数学	すうがく	mathematics
+分からない	わからない	don't understand
+気持ち	きもち	feeling
+見つける	みつける	find
+二階	にかい	second floor
+親	おや	parent
+お菓子	おかし	sweets
+待つ	まつ	wait

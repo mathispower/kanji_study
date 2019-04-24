@@ -1,58 +1,58 @@
-別	べつ
-終わる	おわる
-送る	おくる
-彼女	かのじょ
-大好き	だいすき
-猿	さる
-落ちる	おちる
-狭い	せまい
-着る	きる
-夫	おっと
-胸	むね
-痛む	いたむ
-週	しゅう
-達人	たつじん
-飛行機	ひこうき
-読む	よむ
-誰	だれ
-話し	はなし
-知らない	しらない
-結婚	けっこん
-美しい	うつくしい
-絵	え
-忘れない	わすれない
-犬	いぬ
-病気	びょうき
-低い	ひくい
-取る	とる
-新しい	あたらしい
-駅	えき
-歩く	あるく
-難しい	むずかしい
-覚える	おぼえる
-午前	ごぜん
-午後	ごご
-年	とし
-長い	ながい
-思う	おもう
-旅行	りょこう
-変えました	かえました
-生きる	いきる
-冬	ふゆ
-夏	なつ
-春	はる
-秋	あき
-姉	あね
-妹	いもと
-銀行	ぎんこう
-働く	はたらく
-学生	がくせい
-早い	はやい
-時間	じかん
-食事	しょくじ
-近く	ちかく
-彼	かれ
-医者	いしゃ
-上司	じょうし
-一杯	いっぱい
-飲もう	のもう
+別	べつ	another
+終わる	おわる	end
+送る	おくる	send
+彼女	かのじょ	she
+大好き	だいすき	I love you
+猿	さる	monkey
+落ちる	おちる	drop down
+狭い	せまい	narrow
+着る	きる	wear
+夫	おっと	husband
+胸	むね	chest
+痛む	いたむ	hurt
+週	しゅう	week
+達人	たつじん	expert
+飛行機	ひこうき	airplane
+読む	よむ	read
+誰	だれ	who
+話し	はなし	story
+知らない	しらない	don't know
+結婚	けっこん	marriage
+美しい	うつくしい	beautiful
+絵	え	picture
+忘れない	わすれない	don't forget
+犬	いぬ	dog
+病気	びょうき	sick
+低い	ひくい	low
+取る	とる	take
+新しい	あたらしい	new
+駅	えき	station
+歩く	あるく	walk
+難しい	むずかしい	difficult
+覚える	おぼえる	remember
+午前	ごぜん	morning
+午後	ごご	afternoon
+年	とし	year
+長い	ながい	long
+思う	おもう	think
+旅行	りょこう	travel
+変えました	かえました	changed
+生きる	いきる	live
+冬	ふゆ	winter
+夏	なつ	summer
+春	はる	spring
+秋	あき	autumn
+姉	あね	older sister
+妹	いもと	younger sister
+銀行	ぎんこう	bank
+働く	はたらく	work
+学生	がくせい	student
+早い	はやい	fast
+時間	じかん	time
+食事	しょくじ	meal
+近く	ちかく	near
+彼	かれ	he
+医者	いしゃ	doctor
+上司	じょうし	boss
+一杯	いっぱい	a cup of
+飲もう	のもう	let's drink

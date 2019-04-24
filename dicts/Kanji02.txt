@@ -46,3 +46,18 @@
 作っています	つくっています	making
 中国	ちゅうごく	China
 自転車	じてんしゃ	bicycle
+置く	おく	to put
+客様	きゃくさま	customer
+言葉	ことば	word
+日程	にってい	schedule
+勝つ	かつ	to win
+数	かず	number
+疲れる	つかれる	to get tired
+平仮名	ひらがな	hiragana
+建てる	たてる	to build
+会社	かいしゃ	Company
+忙しい	いそがしい	busy
+続く	つづく	to continue
+教える	おしえる	to teach
+約束	やくそく	Promise
+足りない	たりない	not enough

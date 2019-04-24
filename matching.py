@@ -47,7 +47,7 @@ t_q      = deque()
 verbose  = False
 
 # Game specific
-difficulty = 4 # 28
+difficulty = 8 # 28
 
 ###############################################################################
 ###                                                                         ###
@@ -200,13 +200,12 @@ class App(tk.Tk):
 
         self.types = ['' for i in range(len(self.options))]
         for i in range(len(self.types)):
-            first_c = ord(self.options[i][0])
-            if first_c < 255: # English
-                self.types[i] = "meaning"
-            elif first_c < 0x4E00: # hiragana
-                self.types[i] = "reading"
-            else:
-                self.types[i] = "kanji"
+            text = self.options[i]
+            letter = [ord(text[j]) for j in range(len(text))]
+            self.types[i] = "reading"
+            for l in letter:
+                if l <= 255: self.types[i] = "meaning"; break
+                elif l >= 0x4E00: self.types[i] = "kanji"; break
 
         num_elements = len(self.options)
         self.choices = {}; self.selects = [0 for i in range(num_elements)]
@@ -214,7 +213,7 @@ class App(tk.Tk):
         for i in range(num_elements):
             row = int(i / num_cols)
             col = int(i % num_cols)
-            if self.types[i] == "meaning": font_size = 30
+            if self.types[i] == "meaning": font_size = 20
             elif self.types[i] == "reading": font_size = 30
             elif self.types[i] == "kanji": font_size = 40
 
